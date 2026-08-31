@@ -5,3 +5,4 @@ HOLLOWED is an atmospheric underground survival-horror game focused on explorati
 
 We're looking for people interested in helping develop an original indie game. The project is currently in early development, and details will be shared with accepted collaborators.
 please open the webpage
+https://fusionalexx.github.io/HOLLOWED/
